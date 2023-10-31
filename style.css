@@ -10,6 +10,7 @@
 
 body {
   background: var(--gradient-21);
+  height: 100vh;
 }
 
 main {
